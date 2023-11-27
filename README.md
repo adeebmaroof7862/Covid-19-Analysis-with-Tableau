@@ -8,3 +8,5 @@ The motive of this project is to understand and create an analysis for COVID-19 
 6. Age Group Details.
 7. Covid Cases by State.
 8. State-wise Total Deathes.
+
+![Covid-19 Analysis Dashboard](https://github.com/adeebmaroof7862/Covid-19-Analysis-with-Tableau/assets/124773771/ca833084-6321-4c04-94a0-86c4fb2f4699)
